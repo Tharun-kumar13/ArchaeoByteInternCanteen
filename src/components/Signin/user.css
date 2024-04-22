@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.user-detaills {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
+
+}
+
+.user-detaills p {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: start;
+    margin: 10px 0px;
+    justify-content: space-between;
+}
+
+p h5 {
+    font-size: 20px;
+    font-weight: 500;
+}
